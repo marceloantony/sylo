@@ -1,0 +1,212 @@
+.menuSuperior
+{
+    width:100%;
+    background-color: #333;
+}
+
+.menuSuperior ul
+{
+    list-style-type: none;
+    margin: 0 5% 0 0;
+    padding: 0;
+    overflow: hidden;
+}
+.menuSuperior li
+{
+    float:  right;
+}
+
+.menuSuperior li a 
+{
+    font-family: monospace;
+    font-size: 1.6em;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: none;
+}
+
+.menuSuperior li a:hover
+{
+    background-color: #111;        
+}
+
+.logo
+{
+    font-family: sans-serif;
+    color: white;
+    width:20%;
+    height: 100%;
+    position: absolute;
+    left: 5%;
+}
+
+.texto_container_superior
+{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Roboto-Black;
+    font-size: 270%;
+    color:white;
+    
+}
+.subtexto_container_superior
+{
+    position: absolute;
+    top: 35%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Roboto-Medium;
+    font-size: 180%;
+    text-align: center;
+    color:white;
+}
+
+.cotacao
+{
+    position: absolute;
+    width: 800px;
+    height: 300px;
+    text-align:center;
+    margin: 27% 25% 25% 25%;
+    
+}
+.container_superior
+{
+    
+    height:100%;
+    width:100%;
+    border: 2px hidden;
+    
+    
+}
+.proposta_de_valor_1
+{
+    margin-left: 17%;
+    height: 50%;
+    width:20%;
+    float: left;
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%;
+}
+
+.proposta_de_valor_2
+{    
+    margin-left: 2%;
+    height: 50%;
+    width:20%;
+    float: left;
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%; 
+}
+
+.proposta_de_valor_3
+{
+    margin-left: 2%;
+    height: 50%;
+    width:20%;
+    float: left;
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%;    
+}
+
+
+.rodape_empresa
+{
+    margin-left: 2%;
+    height: 100%;
+    width:20%;
+    float: left;
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%;  
+}
+
+.rodape_fale_conosco
+{
+    height: 100%;
+    width:20%;
+    float: left;
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%; 
+}
+
+.rodape_redes_sociais
+{
+    height: 100%;
+    width:20%;
+    float: left;
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%;   
+}
+
+.rodape
+{    
+    height:180px;
+    width: 100%;
+    margin:30% 0 0 0;
+    background-color: #343C3F;
+}
+
+.subh2
+{
+    color:#595959;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px; 
+}
+
+.subh3
+{
+    color:#d9d9d9;
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;  
+}
+
+.subh
+{
+    color:#595959;
+    text-align: center;
+    font-family: monospace;
+    font-size: 24px;
+    margin: 0 0 4% 0;
+}
+  
+h1
+{
+    color:#293d3d;
+    text-align: center;
+    font-family: monospace;
+    font-size: 32px;
+    margin: 4% 0 4% 0;
+}
+h2
+{
+    color:#293d3d;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+h3
+{
+    color:ghostwhite;
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+}
+a
+{
+    text-decoration: none;
+    color:#d9d9d9;
+  
+}
